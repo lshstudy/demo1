@@ -1,0 +1,4 @@
+git reset --hard HEADE~1回滚一个版本
+git clone 服务器仓库地址
+git pull 讲服务器里面的版本拉到本地
+git push 推上去
